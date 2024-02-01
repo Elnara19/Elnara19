@@ -8,7 +8,11 @@
 # I'm Elnara
 
 </div>
-
+<div align="center">
+<a href="https://www.linkedin.com/in/adila-abdullayeva/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 
 ## QA Software Engineer 
