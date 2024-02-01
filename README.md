@@ -4,11 +4,11 @@
 <div align="center">
 <img src="https://images.spiceworks.com/800x400/wp-content/uploads/2023/05/25061046/Shutterstock_2060615657.jpg"></div>
 
- <h3 align="center">Hi there 👋My name is Adila. I'm a Software QA Automation Engeneer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
+ <h3 align="center">Hi there 👋My name is Elnara. I'm a Software QA Automation Engeneer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
 
 <div align="center">
-<a href="https://www.linkedin.com/in/adila-abdullayeva/">
+<a href="">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
