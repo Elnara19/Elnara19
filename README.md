@@ -2,7 +2,7 @@
 𝘊𝘩𝘰𝘰𝘴𝘦 𝘢 𝘫𝘰𝘣 𝘺𝘰𝘶 𝘭𝘰𝘷𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘯𝘦𝘷𝘦𝘳 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘢 𝘥𝘢𝘺 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘭𝘪𝘧𝘦!
 </p>
 <div align="center">
-<img src="https://images.spiceworks.com/800x400/wp-content/uploads/2023/05/25061046/Shutterstock_2060615657.jpg"></div>
+<img src="https://img.freepik.com/free-vector/software-code-testing-concept-illustration_114360-8174.jpg"></div>
 
  <h3 align="center">Hi there 👋My name is Elnara. I'm a Software QA Automation Engeneer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"></h3> 
 
