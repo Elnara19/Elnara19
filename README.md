@@ -1,4 +1,4 @@
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=800000&size=29&multiline=true&width=700&lines=Hello+World!+Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)<p align="center">
 𝘊𝘩𝘰𝘰𝘴𝘦 𝘢 𝘫𝘰𝘣 𝘺𝘰𝘶 𝘭𝘰𝘷𝘦 𝘢𝘯𝘥 𝘺𝘰𝘶 𝘸𝘪𝘭𝘭 𝘯𝘦𝘷𝘦𝘳 𝘩𝘢𝘷𝘦 𝘵𝘰 𝘸𝘰𝘳𝘬 𝘢 𝘥𝘢𝘺 𝘪𝘯 𝘺𝘰𝘶𝘳 𝘭𝘪𝘧𝘦!
 </p>
 <div align="center">
